@@ -93,9 +93,6 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 <details>
 <summary>💼 Internship Projects</summary>
 
-| Project Name         | Repo Link                                                                                    |
-| -------------------- | -------------------------------------------------------------------------------------------- |
-| **Fin4Rural Growth** | [GitHub](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation) |
 
 </details>
 
