@@ -51,7 +51,7 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | Project Name             | Repo Link                                                    | Demo/Output                                                        | Tech Stack                      |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------- |
 | **Photo Compressor App** | [GitHub](https://github.com/Rudra-G-23/photo-compressor-app) | [Live Demo](https://compress-my-photo-app-by-rudra.streamlit.app/) | `Python`, `Pillow`, `Streamlit` |
-
+|  English–Odia Speaking Practice App | [GitHub](https://github.com/Rudra-G-23/english-odia-speaking-practice) | [Live](https://english-odia-speaking-practice-with-rudra.streamlit.app/) | `Python`, `gTTS`, `Streamlit` |
 </details>
 
 <details>
