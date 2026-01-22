@@ -91,8 +91,13 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 </details>
 
 <details>
-<summary>💼 Internship Projects</summary>
+<summary>🎉😁 Fun with Code</summary>
+  
 
+| Project Name                    | Repo Link                                                           | Demo/Output                                                              | Why       |
+| ------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
+| **English-Odia Speaking Pratice** | [GitHub](https://github.com/Rudra-G-23/english-odia-speaking-practice) | [Live](https://english-odia-speaking-practice-with-rudra.streamlit.app/) | For my little brother |
+| **Reasearch Paper Wiki** | [GitHub](https://github.com/Rudra-G-23/research-paper-wiki) | [Live](https://rudra-g-23.github.io/research-paper-wiki/) | Reasearch Paper Notes |
 
 </details>
 
