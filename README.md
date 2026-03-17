@@ -42,7 +42,7 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 |  **Find My Joint** |  [GitHub](https://github.com/Rudra-G-23/Find-My-Joint) |  [Docs](https://rudra-g-23.github.io/Find-My-Joint/) |
 | **Show-file-tree** | [GitHub](https://github.com/Rudra-G-23/show-file-tree) | [Docs](https://rudra-g-23.github.io/show-file-tree/) |
 |    **plot-flow**   |    [GitHub](https://github.com/Rudra-G-23/plot-flow)   |                    WIP (08-11-25)                    |
-
+|    **quick-eda**   |    [GitHub](https://github.com/Rudra-G-23/quickeda)    |                        WIP                           |
 </details>
 
 <details>
@@ -107,6 +107,15 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | Project Name              | Repo Link                                                     |
 | ------------------------- | ------------------------------------------------------------- |
 | **AI Research Assistant** | [GitHub](https://github.com/Rudra-G-23/ai-research-assistant) |
+
+</details>
+
+<details>
+<summary>MLOP's Project</summary>
+
+| Project Name              | Repo Link                                                     |
+| ------------------------- | ------------------------------------------------------------- |
+| **Vehicle Insurance Risk Prediction – End-to-End MLOps Projcet** | [GitHub](https://github.com/Rudra-G-23/vehicle-insurance-risk-prediction-mlops) |
 
 </details>
 
