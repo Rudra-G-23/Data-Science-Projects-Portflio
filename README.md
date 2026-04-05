@@ -98,7 +98,7 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | ------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
 | **English-Odia Speaking Pratice** | [GitHub](https://github.com/Rudra-G-23/english-odia-speaking-practice) | [Live](https://english-odia-speaking-practice-with-rudra.streamlit.app/) | For my little brother |
 | **Reasearch Paper Wiki** | [GitHub](https://github.com/Rudra-G-23/research-paper-wiki) | [Live](https://rudra-g-23.github.io/research-paper-wiki/) | Reasearch Paper Notes |
-
+| **Chrome Extension for Job form filling** | [GitHub](https://github.com/Rudra-G-23/job-form-autofill-extension) | [Code](https://github.com/Rudra-G-23/job-form-autofill-extension) | Easy Life | 
 </details>
 
 <details>
