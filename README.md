@@ -50,8 +50,11 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 
 | Project Name             | Repo Link                                                    | Demo/Output                                                        | Tech Stack                      |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------- |
-| **Photo Compressor App** | [GitHub](https://github.com/Rudra-G-23/photo-compressor-app) | [Live Demo](https://compress-my-photo-app-by-rudra.streamlit.app/) | `Python`, `Pillow`, `Streamlit` |
-|  English–Odia Speaking Practice App | [GitHub](https://github.com/Rudra-G-23/english-odia-speaking-practice) | [Live](https://english-odia-speaking-practice-with-rudra.streamlit.app/) | `Python`, `gTTS`, `Streamlit` |
+| **Photo Compressor App** | [GitHub](https://github.com/Rudra-G-23/photo-compressor-app) | [Live](https://compress-my-photo-app-by-rudra.streamlit.app/) | `Python`, `Pillow`, `Streamlit` |
+| **English–Odia Speaking Practice App** | [GitHub](https://github.com/Rudra-G-23/english-odia-speaking-practice) | [Live](https://english-odia-speaking-practice-with-rudra.streamlit.app/) | `Python`, `gTTS`, `Streamlit` |
+| **List of Kaggle Python Projects** | [GitHub](https://github.com/Rudra-G-23/Python_Projects) | [Live](https://www.kaggle.com/rudraprasadbhuyan/code) | `Python`|
+| **Transaction Analyse App** | [GitHub](https://github.com/Rudra-G-23/transaction-analyzer) | Live | `Python` |
+
 </details>
 
 <details>
@@ -77,7 +80,8 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 
 | Project Name                    | Repo Link                                                           | Demo/Output                                                              | Skills Learned       |
 | ------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
-| **Linear System 3D Visualizer** | [GitHub](https://github.com/Rudra-G-23/Linear-System-3D-Visualizer) | [Live Demo](https://linear-system-3d-visualizer-by-rudra.streamlit.app/) | Linear Systems 2D/3D |
+| **Linear System 3D Visualizer** | [GitHub](https://github.com/Rudra-G-23/Linear-System-3D-Visualizer) | [Live](https://linear-system-3d-visualizer-by-rudra.streamlit.app/) | Linear Systems 2D/3D |
+| **Bihar Dashboard** | [GitHub](https://github.com/Rudra-G-23/bihar-viz-dashboard) | [Live](https://bihar-visualize-dashboard-by-rudra.streamlit.app/) | Dashboard for Bihar State |
 
 </details>
 
@@ -87,6 +91,7 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | Project Name               | Repo Link                                                     |
 | -------------------------- | ------------------------------------------------------------- |
 | **Yelp Big Data Capstone** | [GitHub](https://github.com/Rudra-G-23/yelp-bigdata-capstone) |
+| **Rural4Fin** | [GitHub](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation) |
 
 </details>
 
@@ -99,6 +104,11 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | **English-Odia Speaking Pratice** | [GitHub](https://github.com/Rudra-G-23/english-odia-speaking-practice) | [Live](https://english-odia-speaking-practice-with-rudra.streamlit.app/) | For my little brother |
 | **Reasearch Paper Wiki** | [GitHub](https://github.com/Rudra-G-23/research-paper-wiki) | [Live](https://rudra-g-23.github.io/research-paper-wiki/) | Reasearch Paper Notes |
 | **Chrome Extension for Job form filling** | [GitHub](https://github.com/Rudra-G-23/job-form-autofill-extension) | [Code](https://github.com/Rudra-G-23/job-form-autofill-extension) | Easy Life | 
+| **Billing App** | [GitHub](https://github.com/Rudra-G-23/billing-app) | [Live](https://rudra-g-23.github.io/billing-app/) | Make billing & payment easy |
+| **Chorme Extenstion for Job Automation** | [GitHub](https://github.com/Rudra-G-23/job-form-autofill-extension) | [Code](https://github.com/Rudra-G-23/job-form-autofill-extension) | Automate Job Filling |
+| **Research Paper Wiki** | [GitHub](https://github.com/Rudra-G-23/research-paper-wiki) | [Live](https://rudra-g-23.github.io/research-paper-wiki/) | Research Papers |
+
+
 </details>
 
 <details>
